@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.card-ml {
+    margin-left: 280px;
+}
+
+.invalid-error-message {
+    width: 100%;
+    margin-top: 0.25rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.875em;
+    color: #e3342f; 
+}
